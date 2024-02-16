@@ -4,7 +4,7 @@ export default defineConfig4CustomTheme({
 	locales: {
 		'/': {
 			lang: 'zh-CN',
-			title: '印客学院',
+			title: 'wly574523605',
 			description: '前端编码规范工程化',
 		},
 	},
@@ -87,8 +87,8 @@ export default defineConfig4CustomTheme({
 
 		extendFrontmatter: {
 			author: {
-				name: '澄怀',
-				link: 'https://github.com/encode-studio-fe/fe-sepc',
+				name: 'wly574523605',
+				link: 'https://gitee.com/wly574523605/wly574523605-fe-spec',
 			},
 		},
 	},

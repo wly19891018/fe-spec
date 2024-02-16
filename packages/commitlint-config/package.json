@@ -1,22 +1,22 @@
 {
-  "name": "encode-fe-commitlint-config",
+  "name": "wly574523605-fe-commitlint-config",
   "version": "0.0.3",
   "main": "index.js",
-  "description": "印客学院 Git规范",
+  "description": "wly574523605 Git规范",
   "keywords": [
-    "encode",
+    "wly574523605",
     "commit",
     "lint"
   ],
-  "author": "chenghuai",
-  "homepage": "https://github.com/encode-studio-fe/fe-spec#readme",
+  "author": "wly574523605",
+  "homepage": "https://gitee.com/wly574523605/wly574523605-fe-spec/blob/master/README.md",
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/encode-studio-fe/fe-spec.git"
+    "url": "git+https://gitee.com/wly574523605/wly574523605-fe-spec.git"
   },
   "bugs": {
-    "url": "https://github.com/encode-studio-fe/fe-spec/issues"
+    "url": "https://https://gitee.com/wly574523605/wly574523605-fe-spec/issues"
   },
   "dependencies": {
     "conventional-changelog-conventionalcommits": "^4.5.0"

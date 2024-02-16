@@ -1,22 +1,22 @@
 {
-  "name": "encode-fe-markdownlint-config",
-  "version": "0.0.3",
+  "name": "wly574523605-fe-markdownlint-config",
+  "version": "0.0.1",
   "main": "index.json",
-  "description": "印客学院 文档规范",
+  "description": "wly574523605 文档规范",
   "keywords": [
-    "encode",
+    "wly574523605",
     "markdown",
     "lint"
   ],
-  "author": "chenghuai",
-  "homepage": "https://github.com/encode-studio-fe/fe-spec#readme",
+  "author": "wly574523605",
+  "homepage": "https://gitee.com/wly574523605/wly574523605-fe-spec/blob/master/README.md",
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/encode-studio-fe/fe-spec.git"
+    "url": "git+https://gitee.com/wly574523605/wly574523605-fe-spec.git"
   },
   "bugs": {
-    "url": "https://github.com/encode-studio-fe/fe-spec/issues"
+    "url": "https://https://gitee.com/wly574523605/wly574523605-fe-spec/issues"
   },
   "peerDependencies": {
     "markdownlint": "^0.28.1"

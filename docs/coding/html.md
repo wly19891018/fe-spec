@@ -5,8 +5,8 @@ categories:
 tags:
     - 编码规范
 author:
-    name: 澄怀
-    link: https://github.com/encode-studio-fe/fe-spec
+    name: wly574523605
+    link: https://gitee.com/wly574523605/wly574523605-fe-spec
 ---
 
 # HTML 编码规范
@@ -159,7 +159,7 @@ author:
     ```html
     <head>
      <meta charset="utf-8" />
-     <title>印客学院</title>
+     <title>wly574523605</title>
     </head>
     ```
 
@@ -173,7 +173,7 @@ author:
     <!DOCTYPE html>
     <html>
      <head>
-      <title>印客学院</title>
+      <title>wly574523605</title>
      </head>
      <body>
       <img src="images/company-logo.png" alt="Company" />
@@ -337,10 +337,9 @@ author:
 <html lang="zh-CN">
  <head>
   <meta charset="utf-8" />
-  <meta name="description" content="印客学院 - 一千个职业梦想的赞助商" />
-  <meta name="keyword" content="印客学院" />
+  <meta name="keyword" content="wly574523605" />
   <meta name="viewport" content="width=device-width, minimum-scale=1.0, viewport-fit=cover" />
-  <title>印客学院</title>
+  <title>wly574523605</title>
   <link rel="stylesheet" href="example.css" />
  </head>
  <body>

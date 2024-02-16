@@ -5,8 +5,8 @@ categories:
 tags:
     - 编码规范
 author:
-    name: 澄怀
-    link: https://github.com/encode-studio-fe/fe-spec
+    name: wly574523605
+    link: https://gitee.com/wly574523605/wly574523605-fe-spec
 ---
 
 # Node 编码规范

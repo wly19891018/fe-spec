@@ -1,6 +1,14 @@
-# `encode-fe-commitlint-config`
+<!--
+ * @Author: wly19891018 wly574523605@163.com
+ * @Date: 2024-02-16 15:15:04
+ * @LastEditors: wly19891018 wly574523605@163.com
+ * @LastEditTime: 2024-02-16 20:02:25
+ * @FilePath: \spec1.0\packages\commitlint-config\README.md
+ * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
+-->
+# `wly574523605-fe-commitlint-config`
 
-> 印客学院 Git 规范
+> wly574523605 Git 规范
 
 支持配套的 [commitlint 配置](https://commitlint.js.org/#/concepts-shareable-config)，用于对 `git commit message` 进行校验。
 
@@ -9,7 +17,7 @@
 使用时，需要安装 [@commitlint/cli](https://www.npmjs.com/package/@commitlint/cli)：
 
 ```bash
-npm install encode-fe-commitlint-config @commitlint/cli --save-dev
+npm install wly574523605-fe-commitlint-config @commitlint/cli --save-dev
 ```
 
 ## 使用
@@ -18,7 +26,7 @@ npm install encode-fe-commitlint-config @commitlint/cli --save-dev
 
 ```javascript
 module.exports = {
-	extends: ['encode-fe-commitlint-config'],
+	extends: ['wly574523605-fe-commitlint-config'],
 };
 ```
 
