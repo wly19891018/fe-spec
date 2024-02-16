@@ -1,6 +1,6 @@
 ---
 home: true
-heroText: wly574523605
+heroText: wly19891018
 tagline: 前端编码规范工程化
 actionText: 立刻进入 →
 actionLink: /coding/html.md
@@ -53,6 +53,6 @@ features:
 
 ## :email: 联系
 
--   **gitee**: <https://gitee.com/wly574523605/wly574523605-fe-spec.git>
+-   **github**: <https://github.com/wly19891018/fe-spec.git>
 
 </br>

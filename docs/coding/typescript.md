@@ -5,8 +5,8 @@ categories:
 tags:
     - 编码规范
 author:
-    name: wly574523605
-    link: https://gitee.com/wly574523605/wly574523605-fe-spec
+    name: wly19891018
+    link: https://github.com/wly19891018/fe-spec
 ---
 
 # TypeScript 编码规范

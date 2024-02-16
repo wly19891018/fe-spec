@@ -1,11 +1,3 @@
-###
- # @Author: wly19891018 wly574523605@163.com
- # @Date: 2024-02-16 21:23:26
- # @LastEditors: wly19891018 wly574523605@163.com
- # @LastEditTime: 2024-02-16 21:23:54
- # @FilePath: \spec1.0\.husky\commit-msg
- # @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
-### 
 #!/usr/bin/env sh
 . "$(dirname -- "$0")/_/husky.sh"
 

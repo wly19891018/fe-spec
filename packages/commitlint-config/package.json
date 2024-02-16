@@ -1,22 +1,22 @@
 {
-  "name": "wly574523605-fe-commitlint-config",
+  "name": "wly19891018-fe-commitlint-config",
   "version": "0.0.3",
   "main": "index.js",
-  "description": "wly574523605 Git规范",
+  "description": "wly19891018 Git规范",
   "keywords": [
-    "wly574523605",
+    "wly19891018",
     "commit",
     "lint"
   ],
-  "author": "wly574523605",
-  "homepage": "https://gitee.com/wly574523605/wly574523605-fe-spec/blob/master/README.md",
+  "author": "wly19891018",
+  "homepage": "https://github.com/wly19891018/fe-spec/blob/main/README.md",
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://gitee.com/wly574523605/wly574523605-fe-spec.git"
+    "url": "git+https://github.com/wly19891018/fe-spec.git"
   },
   "bugs": {
-    "url": "https://https://gitee.com/wly574523605/wly574523605-fe-spec/issues"
+    "url": "https://github.com/wly19891018/fe-spec/issues"
   },
   "dependencies": {
     "conventional-changelog-conventionalcommits": "^4.5.0"

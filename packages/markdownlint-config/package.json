@@ -1,22 +1,22 @@
 {
-  "name": "wly574523605-fe-markdownlint-config",
+  "name": "wly19891018-fe-markdownlint-config",
   "version": "0.0.1",
   "main": "index.json",
-  "description": "wly574523605 文档规范",
+  "description": "wly19891018 文档规范",
   "keywords": [
-    "wly574523605",
+    "wly19891018",
     "markdown",
     "lint"
   ],
-  "author": "wly574523605",
-  "homepage": "https://gitee.com/wly574523605/wly574523605-fe-spec/blob/master/README.md",
+  "author": "wly19891018",
+  "homepage": "https://github.com/wly19891018/fe-spec/blob/main/README.md",
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://gitee.com/wly574523605/wly574523605-fe-spec.git"
+    "url": "git+https://github.com/wly19891018/fe-spec.git"
   },
   "bugs": {
-    "url": "https://https://gitee.com/wly574523605/wly574523605-fe-spec/issues"
+    "url": "https://github.com/wly19891018/fe-spec/issues"
   },
   "peerDependencies": {
     "markdownlint": "^0.28.1"

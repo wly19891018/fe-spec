@@ -1,7 +1,7 @@
 {
-  "name": "wly574523605-fe-spec",
+  "name": "fe-spec",
   "private": true,
-  "description": "wly574523605--前端编码规范工程化",
+  "description": "wly19891018--前端编码规范工程化",
   "scripts": {
     "preinstall": "npx only-allow pnpm",
     "prepare": "husky install",
@@ -16,10 +16,10 @@
     "changelog": "conventional-changelog -p angular -i CHANGELOG.md -s"
   },
   "keywords": [
-    "wly574523605",
+    "wly19891018",
     "fe spec"
   ],
-  "author": "wly574523605",
+  "author": "wly19891018",
   "license": "ISC",
   "devDependencies": {
     "@commitlint/cli": "^17.6.1",

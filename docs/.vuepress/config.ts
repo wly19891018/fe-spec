@@ -4,7 +4,7 @@ export default defineConfig4CustomTheme({
 	locales: {
 		'/': {
 			lang: 'zh-CN',
-			title: 'wly574523605',
+			title: 'wly19891018',
 			description: '前端编码规范工程化',
 		},
 	},
@@ -87,8 +87,8 @@ export default defineConfig4CustomTheme({
 
 		extendFrontmatter: {
 			author: {
-				name: 'wly574523605',
-				link: 'https://gitee.com/wly574523605/wly574523605-fe-spec',
+				name: 'wly19891018',
+				link: 'https://github.com/wly19891018/fe-spec',
 			},
 		},
 	},

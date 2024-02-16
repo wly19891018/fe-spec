@@ -2,13 +2,13 @@
  * @Author: wly19891018 wly574523605@163.com
  * @Date: 2024-02-16 15:30:03
  * @LastEditors: wly19891018 wly574523605@163.com
- * @LastEditTime: 2024-02-16 21:13:26
+ * @LastEditTime: 2024-02-16 21:37:52
  * @FilePath: \spec1.0\README.md
  * @Description: 包管理配置项
 -->
 # fe-spec
 
-wly574523605 前端编码规范工程化
+wly19891018 前端编码规范工程化
 
 ## :mountain: 能力支持
 
@@ -73,6 +73,6 @@ pnpm husky install
 
 ## :email: 联系
 
--   **gitee**: <https://gitee.com/wly574523605/wly574523605-fe-spec.git>
+-   **github**: <https://github.com/wly19891018/fe-spec.git>
 
 </br>
