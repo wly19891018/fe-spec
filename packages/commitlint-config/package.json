@@ -1,14 +1,14 @@
 {
-  "name": "wly19891018-fe-commitlint-config",
-  "version": "0.0.3",
+  "name": "wly-fe-commitlint-config",
+  "version": "0.0.4",
   "main": "index.js",
-  "description": "wly19891018 Git规范",
+  "description": "wly574523605 Git规范",
   "keywords": [
-    "wly19891018",
+    "wly574523605",
     "commit",
     "lint"
   ],
-  "author": "wly19891018",
+  "author": "wly574523605",
   "homepage": "https://github.com/wly19891018/fe-spec/blob/main/README.md",
   "license": "ISC",
   "repository": {

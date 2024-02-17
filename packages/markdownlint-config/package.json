@@ -1,14 +1,14 @@
 {
-  "name": "wly19891018-fe-markdownlint-config",
-  "version": "0.0.1",
+  "name": "wly-fe-markdownlint-config",
+  "version": "0.0.4",
   "main": "index.json",
-  "description": "wly19891018 文档规范",
+  "description": "wly574523605 文档规范",
   "keywords": [
-    "wly19891018",
+    "wly574523605",
     "markdown",
     "lint"
   ],
-  "author": "wly19891018",
+  "author": "wly574523605",
   "homepage": "https://github.com/wly19891018/fe-spec/blob/main/README.md",
   "license": "ISC",
   "repository": {
