@@ -14,7 +14,7 @@
     "lint": "eslint ./",
     "print-config": "eslint --print-config ./index.js > ./print-config.json"
   },
-  "author": "chenghuai",
+  "author": "wly574523605",
   "homepage": "https://github.com/wly19891018/fe-spec/blob/main/README.md",
   "license": "ISC",
   "repository": {
