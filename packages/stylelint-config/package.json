@@ -1,0 +1,33 @@
+{
+  "name": "wly-fe-stylelint-config",
+  "version": "0.0.5",
+  "description": "wly574523605 CSS规范",
+  "main": "index.js",
+  "keywords": [
+    "wly574523605",
+    "style",
+    "lint"
+  ],
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "wly574523605",
+  "homepage": "https://github.com/wly19891018/fe-spec/blob/main/README.md",
+  "license": "ISC",
+  "peerDependencies": {
+    "stylelint": ">=8.3.0",
+    "stylelint-scss": ">=2.0.0"
+  },
+  "devDependencies": {
+    "jest": "^29.5.0",
+    "stylelint": "^14.3.0",
+    "stylelint-scss": "^4.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wly19891018/fe-spec.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wly19891018/fe-spec/issues"
+  }
+}

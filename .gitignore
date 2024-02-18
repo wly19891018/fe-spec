@@ -14,7 +14,6 @@ coverage/
 release/
 
 node_modules/
-__tests__/
 
 .cache/
 out/
