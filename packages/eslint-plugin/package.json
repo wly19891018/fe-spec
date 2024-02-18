@@ -1,0 +1,30 @@
+{
+  "name": "wly-fe-eslint-plugin",
+  "version": "1.0.0",
+  "description": "自定义eslint插件",
+  "scripts": {
+    "test": "jest",
+    "prepublishOnly": "npm run test"
+  },
+  "files": [
+    "configs/",
+    "rules/",
+    "README.md"
+  ],
+  "keywords": [
+    "wly574523605",
+    "eslint",
+    "eslint-plugin"
+  ],
+  "main": "index.js",
+  "author": "wly574523605",
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra": "^11.2.0",
+    "require-all": "^3.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.56.0",
+    "jest": "^29.7.0"
+  }
+}
