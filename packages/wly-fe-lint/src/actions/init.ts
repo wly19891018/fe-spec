@@ -2,9 +2,9 @@
  * @Author: wly19891018 wly574523605@163.com
  * @Date: 2024-02-18 22:44:18
  * @LastEditors: wly19891018 wly574523605@163.com
- * @LastEditTime: 2024-02-18 23:18:14
+ * @LastEditTime: 2024-02-19 20:03:34
  * @FilePath: \spec1.0\packages\wly-fe-lint\src\actions\init.ts
- * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
+ * @Description: 初始化
  */
 import inquirer from 'inquirer';
 import path from 'path';
